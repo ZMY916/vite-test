@@ -8,7 +8,10 @@ const count = ref(0)
 
 <template>
   <NiHao :name="msg+count+count"></NiHao>
+  <div>ejjeje</div>
   <!-- <h1>{{ msg }}</h1>
+
+    njwkjwe
 
   <div class="card">
     <button type="button" @click="count++">count is {{ count }}</button>

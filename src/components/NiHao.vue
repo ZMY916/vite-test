@@ -1,6 +1,7 @@
 <template>
   <div>
     <h2>{{ props }}</h2>
+    <h2>kjjj</h2>
   </div>
 </template>
 
